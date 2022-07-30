@@ -1,0 +1,34 @@
+Source: https://flutterlearn.com/
+
+Handling User Input.
+1. Using TextField.
+2. Handling changes to a TextField.
+3. Pass Retrieved values using Navigator
+
+User Interface
+1. Applying ThemeData.
+2. The Basic Screen Layout.
+3. Applying Custom Font.
+
+Asynchronous Functions
+1. The 'Future' function.
+2. 'async' and 'await'.
+Completed on 30 July 2022 
+
+Working with Remote Data (Unable to continue , an error occured on the first)
+1. The 'http' Package.
+2. Model class and JSON parsing.
+3. Displaying Remote Data (NEWS API). (x1. Failed)
+Completed on 23 July 2022 
+
+Using 3rd Party Packages
+1. The 'url_launcher' package.
+2. Adding onTap() to NEWS API. (Depend on x1)
+Completed on 23 July 2022 
+
+Other Useful Widgets:
+1. GridView.
+2. The 'Hero' Animation.
+3. Stack.
+4. 'AlertDialoog' with buttons.
+Completed on 23 July 2022 
