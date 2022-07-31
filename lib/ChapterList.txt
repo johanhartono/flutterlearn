@@ -10,6 +10,7 @@ User Interface
 1. Applying ThemeData.
 2. The Basic Screen Layout.
 3. Applying Custom Font.
+partial Completed on 31 July 2022 
 
 Asynchronous Functions
 1. The 'Future' function.

@@ -12,7 +12,8 @@ import 'package:flutter/material.dart';
 //import 'workingwithremotedata/thehttppackage.dart';
 //mport 'asynchronousfunctions/asyncandawait.dart';
 //import 'handlinguserinput/handlingchangestextfield.dart';
-import 'introducingwidget/main_flutterlearn1.dart';
+//import 'introducingwidget/main_flutterlearn1.dart';
+import 'userinterface/applyingthemedata.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,9 +26,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        theme: ThemeData(
+        theme: themedata,
+/*         theme: ThemeData(
           primarySwatch: Colors.blue,
-        ),
-        home: Home());
+        ), */
+        home: ApplyThemeData());
   }
 }
