@@ -1,8 +1,21 @@
 Source: https://flutterlearn.com/
 
 Introduction
+Completed on 05 August 2022 
+
 Introduction To Dart
+1. Reason why Dart holds the fort strong.
+2. Installing visual studio code and the dart plugin.
+3. Installing Dart SDK.
+4. Writing the first Dart Program.
+Completed on 05 August 2022 
+
 Setting Up Flutter
+1. Downloading/Clonning the Flutter SDK.
+2. Installing Flutter Plugin with Vs Code.
+3. Understanding the structure of Flutter Project.
+4. Building as simple App from Scratch.
+Completed on 05 August 2022 
 
 Introducing Widget
 1. Widgets and their role in a Flutter App.
@@ -12,6 +25,7 @@ Introducing Widget
 4. More Widget-Text, Center and Padding.
 5. Hot reload and Hot Restart, the tricks of the trade.
 6. Recreating the Default Flutrer App (UI Only).
+Completed on 05 August 2022 
 
 Common Widget in Flutter1
 1. Container and their role.
