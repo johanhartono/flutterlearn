@@ -24,7 +24,7 @@ Introducing Widget
 4. FloatingActionButton.
 4. More Widget-Text, Center and Padding.
 5. Hot reload and Hot Restart, the tricks of the trade.
-6. Recreating the Default Flutrer App (UI Only).
+6. Recreating the Default Flutrer App (UI Only). x6
 Completed on 05 August 2022 
 
 Common Widget in Flutter1
@@ -36,19 +36,22 @@ Common Widget in Flutter1
 6. ListView and ListTile.
 7. Building views using ListViewBuilder.
 8. InkWell and its Importance.
+Completed on 06 August 2022 
 
 Stateless and Statefull Widgets-The Concept
 1. Stateless vs statefull widget.
 2. Defining a 'state',
 3. The SetState() Method.
-4. Returning to default Flutter App.
-
+4. Returning to default Flutter App. (Related to x6)
+Completed on 06 August 2022 
 
 Navigating through Navigation
 1. Navigator and Routes
 2. Applying push() using MaterialPageRoute
 3. Applying pop()
 4. Declaring parameter-less routes(pushnamed()) in MaterialApp Widgets
+Completed on 06 August 2022 
+
 
 Handling User Input.
 1. Using TextField.

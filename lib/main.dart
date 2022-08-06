@@ -13,7 +13,10 @@ import 'package:flutter/material.dart';
 //mport 'asynchronousfunctions/asyncandawait.dart';
 //import 'handlinguserinput/handlingchangestextfield.dart';
 //import 'introducingwidget/main_flutterlearn1.dart';
-import 'userinterface/applyingcustomfonts.dart';
+//import 'userinterface/applyingcustomfonts.dart';
+//import 'introducingwidget/recreatedefaultui.dart';
+//import 'commonwidgetinflutter/containerandtheirroles.dart';
+import 'userinterface/basicscreenlayout.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,11 +28,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+        // routes: <String, WidgetBuilder>{
+        //   '/second': (BuildContext context) => SecondScreen(),
+        // },
         debugShowCheckedModeBanner: false,
         /*theme: themedata,*/
-         theme: ThemeData(
+        theme: ThemeData(
           primarySwatch: Colors.blue,
-        ), 
-        home: CustomFonts());
+        ),
+        home: BasicUI());
   }
 }
